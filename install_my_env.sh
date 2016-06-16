@@ -142,8 +142,13 @@ pip3 install django
 django-admin --version
 pip3 install virtualenv
 
+
+#Dropbox
+
+cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
+
 exit
 
 echo "The system environment is set up!"
-echo "Remove first and then link your .zshrc .bashrc .atom .config/sublime-text-3/Packages/User from Dropbox!"
+echo "Remove first and then link your .zshrc .bashrc .atom .config/sublime-text-3/Packages/User .ssh from Dropbox!"
 
