@@ -13,3 +13,5 @@ After installation is complite and you have as default shell `zsh` you are ready
 - Make sure you have the permission to execute the scripts. Use `chmod` command.
 
 - Make sure you have the same username as the one saved in .zshrc and .bashrc.
+
+- Git is installed, but you have to add your ssh-key with `chmod 400 ~/.ssh/id_rsa` command.
