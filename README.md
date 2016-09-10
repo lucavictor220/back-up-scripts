@@ -10,5 +10,6 @@ After installation is complite and you have as default shell `zsh` you are ready
 
 
 ## Important remarks:
-Make sure you have the permission to execute the scripts. Use `chmod` command.
-Make sure that your username is vitiok.
+- Make sure you have the permission to execute the scripts. Use `chmod` command.
+
+- Make sure you have the same username as the one saved in .zshrc and .bashrc.
