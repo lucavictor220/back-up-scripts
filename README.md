@@ -1,4 +1,4 @@
-# Environment-up scripts 
+# Environment-up scripts
 
 In order to install this environment you have to make sure you run first `oh-my-zsh` by running:
 
@@ -8,4 +8,7 @@ After installation is complite and you have as default shell `zsh` you are ready
 
 `sudo ./install_env.sh`
 
-Make sure you have the permission to execute the scripts. Use `chmod` command. 
+
+## Important remarks:
+Make sure you have the permission to execute the scripts. Use `chmod` command.
+Make sure that your username is vitiok.
